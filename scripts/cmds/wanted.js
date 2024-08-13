@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "wanted",
     version: "1.1",
-    author: "Aminul sordar",
+    author: "",
     countDown: 5,
     role: 0,
     shortDescription: "wanted image",
