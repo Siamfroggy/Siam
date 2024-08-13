@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "sing",
     version: "1.0",
-    author: " Aminulsordar",
+    author: "",
     countDown: 5,
     role: 0,
     category: "music"
