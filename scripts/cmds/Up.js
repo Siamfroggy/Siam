@@ -35,12 +35,12 @@ onStart: async function ({ api, event, message }) {
     
 	const frogs = [
       "Hey hello🐸",
-      "hello boss",
+      "hello 🐸",
       "hey bokacoda how are you 🐸",
       "Hey xudanir fua kaiss ho 🐸",
       "Do you know your place baka",
       "yo wai mo",
-      "Bitch",
+      "হোপ🐸",
       "Hello sauar beta welcome to back bc",
       "how are you nigga? ",
       "how can i fuck your wife boss"
@@ -56,7 +56,7 @@ onStart: async function ({ api, event, message }) {
 
     
 
-     const frog = await global.utils.getStreamFromURL( "https://drive.google.com/uc?export=download&id=1i7WHd9KePv61NLESwqMV3zP6Vuq8Gehb");
+     const frog = await global.utils.getStreamFromURL( "https://drive.google.com/uc?export=download&id=1Nk74IrW7hxUgN4NABnhuqe1Eu-J5bsjd");
 
      const os = require("os");
 
