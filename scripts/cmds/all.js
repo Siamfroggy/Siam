@@ -6,7 +6,7 @@ module.exports = {
 		countDown: 5,
 		role: 1,
 		shortDescription: {
-			vi: "Tag tất cả thành viên",
+			vi: "Tag tất cảthành viên",
 			en: "Tag all members"
 		},
 		longDescription: {
