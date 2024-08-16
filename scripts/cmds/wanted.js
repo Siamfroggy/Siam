@@ -8,7 +8,7 @@ module.exports = {
     author: "",
     countDown: 5,
     role: 0,
-    shortDescription: "wanted image",
+    shortDescription: "wante image",
     longDescription: "wanted image",
     category: "image",
     guide: {
