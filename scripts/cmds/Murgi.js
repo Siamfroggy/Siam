@@ -12,7 +12,7 @@ module.exports = {
 
 		role: 2,
 
-		category: "Fun",
+		category: "Fun ok",
 
     shortDescription: "Flirt murgi",
 
