@@ -8,7 +8,7 @@ module.exports = {
 
 	config: {
 
-		name: "zom",
+		name: "om",
 
 		aliases: [],
 
