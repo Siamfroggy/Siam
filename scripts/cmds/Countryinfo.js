@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "countryinfo",
+    name: "countryinfoo",
     aliases: [],
     author: "Vex_Kshitiz",
     version: "1.0",
