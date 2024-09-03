@@ -11,7 +11,7 @@ module.exports = {
     cooldowns: 5,
     role: 0,
     shortDescription: "",
-    longDescription: "Get information about a country.",
+    longDescription: "Get informaton about a country.",
     category: "fun",
     guide: "{p}countryinfo {countryName}",
   },
