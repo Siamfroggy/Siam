@@ -9,7 +9,7 @@ module.exports = {
 		countDown: 5,
 		role: 0,
 		shortDescription: {
-			vi: "Tìm app trên appstore",
+			vi: "Tìm app trên ppstore",
 			en: "Search app on appstore"
 		},
 		longDescription: {
