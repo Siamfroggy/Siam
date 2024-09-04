@@ -11,7 +11,7 @@ module.exports = {
     cooldowns: 5,
     role: 0,
     shortDescription: "",
-    longDescription: "Get information about a Free Fire character.",
+    longDescription: "Get inforation about a Free Fire character.",
     category: "fun",
     guide: "{p}ffinfo {name}",
   },
